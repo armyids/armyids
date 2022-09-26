@@ -62,7 +62,7 @@ Army IDs is a professional validator company founded by a Software Engineer and 
 
 <hr>
 
-### Who Are Our Ecosystem?
+### Who Are Our Ecosystems?
 
 The cryptocurrency industry is full of opportunities. It must be supported by the prowess of the developers and robust infrastructures. Besides developers and infrastructures, these are Army IDs crucial ecosystems:
 
