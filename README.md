@@ -10,7 +10,7 @@ Army IDs is a professional validator company founded by a Software Engineer and 
 
 <details>
 <summary><b>Tech Savvy-Blockchain Developers</b></summary>
-<p>Army IDs will keep your delegation safe and secure because our developers are always up-to-date on the latest advancements in blockchain technology.</p>
+<p>We will keep your delegation safe and secure because our developers are always up-to-date on the latest advancements in blockchain technology.</p>
 <p></p>
 </details>
 
