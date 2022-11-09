@@ -17,7 +17,7 @@ Army IDs is a professional validator company founded by a Software Engineer and 
 <details>
 <summary><b>Trusted by Thousands of Delegators</b></summary>
 <p></p>
-<p>Smart delegators around the world have been staking with Army IDs because they know we are the best in the business. We take security and reliability seriously, so delegators can rest assured that their investment is in good hands.</p> 
+<p>Smart delegators around the world have been staking with us because they know we are the best in the business. We take security and reliability seriously, so delegators can rest assured that their investment is in good hands.</p>
 </details>
 
 <hr>
