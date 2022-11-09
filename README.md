@@ -79,7 +79,7 @@ The cryptocurrency industry is full of opportunities and it must be supported by
 <summary><b>Delegators</b></summary>
 <p></p>
 <ul>
-<li>Delegators are fully assisted 24/7 by the DevSecOps team so the delegators will have 100% confidence to stake with Army IDs.</li>
+<li>Delegators are fully assisted 24/7 by the DevSecOps team so the delegators will have 100% confidence to stake with us.</li>
 <li>Our commission rate is lower than 10% and our duty is to maintain the nodes in order to function properly so the delegators will get passive income automatically.</li>
 </ul>
 </details>
