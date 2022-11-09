@@ -39,7 +39,7 @@ Army IDs is a professional validator company founded by a Software Engineer and 
 <details>
 <summary><b>Education</b></summary>
 <p></p>
-<p>We are here to help you navigate the complex world of the PoW, PoS, & DPoS systems. So you can enrich literacy about how this systems work.</p>
+<p>We are here to help you navigate the complex world of the PoW, PoS, & DPoS systems. So you can enrich literacy about how these systems work.</p>
 </details>
 
 <details>
