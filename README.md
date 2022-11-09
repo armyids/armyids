@@ -33,7 +33,7 @@ Army IDs is a professional validator company founded by a Software Engineer and 
 <details>
 <summary><b>Blockchain Expertise</b></summary>
 <p></p>
-<p>We are tech-savvy engineers with a deep technical understanding with different types of consensus mechanisms, such as Proof-of-Work (PoW), Proof-of-Stake (PoS), and Delegated Proof-of-Stake (DPoS).</p>
+<p>We are tech-savvy engineers with a deep technical understanding of different types of consensus mechanisms, such as Proof-of-Work (PoW), Proof-of-Stake (PoS), and Delegated Proof-of-Stake (DPoS).</p>
 </details>
 
 <details>
