@@ -1,11 +1,11 @@
 ### What is Army IDs?
 
-Army IDs is a professional validator company founded by a Software Engineer and a group of Crypto Enthusiasts. We have been in the business of validating blockchain networks since 2019. We have experience with different types of consensus mechanisms, such as Proof-of-Work (PoW), Proof-of-Stake (PoS), and delegated Proof-of-Stake (DPoS). Our networks include some of the biggest names in the industry, such as Avalanche, Casper Network, and Cosmos SDK-based projects. We have a proven track record of providing high-quality validation services. We took care of all the complexities, so you could easily stake your assets. If you are looking for a reliable and experienced blockchain validation service, then look no further than Army IDs.
+Army IDs is a professional validator company founded by a Software Engineer and a group of Crypto Enthusiasts. We have been in the business of validating blockchain networks since 2019. We have experience with different types of consensus mechanisms, such as Proof-of-Work (PoW), Proof-of-Stake (PoS), and Delegated Proof-of-Stake (DPoS). Our networks include some of the biggest names in the industry, such as Avalanche, Casper Network, and Cosmos SDK-based projects. We have a proven track record of providing a high-quality validation service. We took care of all the complexities, so you could easily stake your assets. If you are looking for a reliable, secured, and experienced blockchain validation service, then look no further than Army IDs.
 
 <details>
 <summary><b>Earn Passive Income Everyday</b></summary>
 <p></p>
-<p>Looking for a reliable way to earn passive income? Look no further than Army IDs, your friendly neighborhood validator! We offer a service that allows our delegators to earn income while sleeping, traveling, or doing whatever they want!</p>
+<p>We offer a service that allows our delegators to earn income while sleeping, traveling, or doing whatever they want! Looking for a reliable and secured way to earn passive income? Look no further than Army IDs, your friendly neighborhood validator!</p>
 </details>
 
 <details>
