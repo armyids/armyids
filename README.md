@@ -5,7 +5,7 @@ Army IDs is a professional validator company founded by a Software Engineer and 
 <details>
 <summary><b>Earn Passive Income Everyday</b></summary>
 <p></p>
-<p>We offer a service that allows our delegators to earn income while sleeping, traveling, or doing whatever they want!</p>
+<p>We offer a service that allows our delegators to earn income while sleeping, traveling, or doing whatever they want.</p>
 </details>
 
 <details>
