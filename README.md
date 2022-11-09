@@ -1,23 +1,23 @@
 ### What is Army IDs?
 
-Army IDs is a professional validator company founded by a Software Engineer and a group of Crypto Enthusiasts. We are the most trusted validator that runs nodes on Proof-of-Stake (PoS) blockchains with the aim to secure the networks. We took care of all the complexities, so you could easily stake your assets.
+Army IDs is a professional validator company founded by a Software Engineer and a group of Crypto Enthusiasts. We have been in the business of validating blockchain networks since 2019. We have experience with different types of consensus mechanisms, such as Proof-of-Work (PoW), Proof-of-Stake (PoS), and delegated Proof-of-Stake (DPoS). Our networks include some of the biggest names in the industry, such as Avalanche, Casper Network, and Cosmos SDK-based projects. We have a proven track record of providing high-quality validation services. We took care of all the complexities, so you could easily stake your assets. If you are looking for a reliable and experienced blockchain validation service, then look no further than Army IDs.
 
 <details>
 <summary><b>Earn Passive Income Everyday</b></summary>
 <p></p>
-<p>Army IDs make your life easier, so you can get passive income while sleeping, traveling, or whatever you are doing.</p>
+<p>Looking for a reliable way to earn passive income? Look no further than Army IDs, your friendly neighborhood validator! We offer a service that allows our delegators to earn income while sleeping, traveling, or doing whatever they want!</p>
 </details>
 
 <details>
 <summary><b>Tech Savvy-Blockchain Developers</b></summary>
+<p>Army IDs will keep your delegation safe and secure because our developers are always up-to-date on the latest advancements in blockchain technology.</p>
 <p></p>
-<p>Secure your crypto by delegating to the most professional validator Army IDs.</p>
 </details>
 
 <details>
 <summary><b>Trusted by Thousands of Delegators</b></summary>
 <p></p>
-<p>Smart delegators around the world have been staking their crypto with Army IDs.</p>
+<p>Smart delegators around the world have been staking with Army IDs because they know we are the best in the business. We take security and reliability seriously, so delegators can rest assured that their investment is in good hands.</p> 
 </details>
 
 <hr>
@@ -33,13 +33,13 @@ Army IDs is a professional validator company founded by a Software Engineer and 
 <details>
 <summary><b>Blockchain Expertise</b></summary>
 <p></p>
-<p>We are tech-savvy former engineers with a deep technical understanding of the Proof-of-Stake (PoS) consensus.</p>
+<p>We are tech-savvy engineers with a deep technical understanding with different types of consensus mechanisms, such as Proof-of-Work (PoW), Proof-of-Stake (PoS), and delegated Proof-of-Stake (DPoS).</p>
 </details>
 
 <details>
 <summary><b>Education</b></summary>
 <p></p>
-<p>We are here to help you navigate the complex world of the PoS system. So you can enrich literacy about how this system works.</p>
+<p>We are here to help you navigate the complex world of the PoW, PoS, & DPoS systems. So you can enrich literacy about how this systems work.</p>
 </details>
 
 <details>
@@ -64,7 +64,7 @@ Army IDs is a professional validator company founded by a Software Engineer and 
 
 ### Who Are Our Ecosystems?
 
-The cryptocurrency industry is full of opportunities. It must be supported by the prowess of the developers and robust infrastructures. Besides developers and infrastructures, these are Army IDs crucial ecosystems:
+The cryptocurrency industry is full of opportunities and it must be supported by the advanced blockchain technology, smart delegators, the prowess of the developers, and robust infrastructures. So these are Army IDs crucial ecosystems:
 
 <details>
 <summary><b>Blockchain</b></summary>
@@ -89,7 +89,7 @@ The cryptocurrency industry is full of opportunities. It must be supported by th
 <p></p>
 <ul>
 <li>Our developers have been participating in various testnets and actively having discussions in the forum.</li>
-<li>Our developers have more than 9 years of experience, so you don’t need to worry and keep trusting us as your trusted validator.</li>
+<li>Our developers have more than 10 years of experience, so you don’t need to worry and keep trusting us as your validator.</li>
 </ul>
 </details>
 
@@ -97,7 +97,7 @@ The cryptocurrency industry is full of opportunities. It must be supported by th
 <summary><b>Infrastructure</b></summary>
 <p></p>
 <ul>
-<li>Our infrastructures are protected by layers of private and public sentries located around the world and can’t be accessed from the outside of our network or any uncredentialled authority.</li>
 <li>We have been serving validation services on various blockchain networks using robust infrastructures.</li>
+<li>Our infrastructures are protected by layers of private and public sentries located around the world and can’t be accessed from the outside of our network or any uncredentialed authority.</li>
 </ul>
 </details>
