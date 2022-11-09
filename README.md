@@ -51,7 +51,7 @@ Army IDs is a professional validator company founded by a Software Engineer and 
 <details>
 <summary><b>High-Security Standards</b></summary>
 <p></p>
-<p>Our infrastructure consists of high-performance servers, enhanced DDoS protection and would continue to evolve as the network matures.</p>
+<p>Our infrastructure consists of high-performance servers, enhanced DDoS protection, and would continue to evolve as the network matures.</p>
 </details>
 
 <details>
