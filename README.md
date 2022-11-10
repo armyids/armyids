@@ -1,3 +1,7 @@
+<h2 align="center">Army IDs | A Professional Validator of Various Blockchain Networks</h2>
+
+<br>
+
 ### What is Army IDs?
 
 Army IDs is a professional validator company founded by a Software Engineer and a group of Crypto Enthusiasts. We have been in the business of validating blockchain networks since 2019. We have experience with different types of consensus mechanisms, such as Proof-of-Work (PoW), Proof-of-Stake (PoS), and Delegated Proof-of-Stake (DPoS). Our networks include some of the biggest names in the industry, such as Avalanche, Casper Network, and Cosmos SDK-based projects. We have a proven track record of providing a high-quality validation service. We took care of all the complexities, so you could easily stake your assets. If you are looking for a reliable, secured, and experienced blockchain validation service, then look no further than Army IDs.
@@ -101,3 +105,10 @@ The cryptocurrency industry is full of opportunities and it must be supported by
 <li>Our infrastructures are protected by layers of private and public sentries located around the world and can’t be accessed from the outside of our network or any uncredentialed authority.</li>
 </ul>
 </details>
+
+<hr>
+<br>
+
+<h2 align="center">Main Networks</h2>
+
+[<img src='https://armyids.com/wp-content/uploads/2020/11/Akash-Network-120x120.png' hspace="10" alt='Akash Network'>](https://wallet.keplr.app/chains/akash?modal=validator&chain=akashnet-2&validator_address=akashvaloper1lscckv3l204makmgewun4chx3y379esju54c4q)[<img src='https://armyids.com/wp-content/uploads/2020/11/Avalanche-120x120.png' hspace="10" alt='Avalanche'>](https://avascan.info/staking/validator/NodeID-3wd8cyGCDmhuoZYWmNDab2FhAVpnKYKJE)[<img src='https://armyids.com/wp-content/uploads/2021/06/Casperlabs-2-120x120.png' hspace="10" alt='Casper Network'>](https://cspr.live/delegate-stake?validatorPublicKey=011907bc6fa90ccb8cacc150170b887b3dd97a96fc029b515365141d1e5d4f7983)[<img src='https://armyids.com/wp-content/uploads/2020/11/Certik-1-120x120.png' hspace="10" alt='CertiK Chain'>](https://ezstaking.tools/comdex/validators/comdexvaloper1d3udpaanu3tesn8xjsh5er6xs2fhtql42edz2k)[<img src='https://armyids.com/wp-content/uploads/2021/12/ComDEX-120x120.png' hspace="10" alt='Comdex One'>](https://ezstaking.tools/desmos/validators/desmosvaloper1xn9cazyx6u9agcwcceuahgjsrnu4y30wrmstjs)[<img src='https://armyids.com/wp-content/uploads/2021/09/Desmos-120x120.png' hspace="10" alt='Desmos Network'>](https://ezstaking.tools/desmos/validators/desmosvaloper1xn9cazyx6u9agcwcceuahgjsrnu4y30wrmstjs)[<img src='https://armyids.com/wp-content/uploads/2022/03/FirmaChain-120x120.png' hspace="10" alt='FirmaChain'>](https://station.firmachain.io/staking/validators/firmavaloper1fhx3c0u4ercg9c3sl3pl42sa0vauckfgwv2rq6)[<img src='https://armyids.com/wp-content/uploads/2021/12/Gravity-1-120x120.png' hspace="10" alt='Gravity Bridge'>](https://wallet.keplr.app/chains/gravity-bridge?modal=validator&chain=gravity-bridge-3&validator_address=gravityvaloper12c58fyprndjdyrh4kccpv9qmtx8qaffg22m2as)[<img src='https://armyids.com/wp-content/uploads/2021/12/Lum-120x120.png' hspace="10" alt='Lum Network'>](https://wallet.lum.network/staking)[<img src='https://armyids.com/wp-content/uploads/2021/10/StarGaze-120x120.png' hspace="10" alt='StarGaze Zone'>](https://wallet.keplr.app/chains/stargaze?modal=validator&chain=stargaze-1&validator_address=starsvaloper16x8thpydgpsfxtzjljqyvtm8a6pkk8ggl64qr5)
