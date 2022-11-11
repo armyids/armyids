@@ -108,7 +108,7 @@ The cryptocurrency industry is full of opportunities and it must be supported by
 
 <hr>
 
-### Who Are Our Ecosystems?
+### Which Networks Do We Validate?
 
 We have a proven track record of providing a high-quality validation service. We took care of all the complexities, so the delegators could easily stake their assets. Our networks include some of the biggest names in the industry, such as Avalanche, Casper Network, and Cosmos SDK-based projects:
 
