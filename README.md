@@ -110,7 +110,7 @@ The cryptocurrency industry is full of opportunities and it must be supported by
 
 ### Which Networks Do We Validate?
 
-We have a proven track record of providing a high-quality validation service. We took care of all the complexities, so the delegators could easily stake their assets. Our networks include some of the biggest names in the industry, such as Avalanche, Casper Network, and Cosmos SDK-based projects:
+Our networks include some of the biggest names in the industry, such as Avalanche, Casper Network, and Cosmos SDK-based projects:
 
 | Akash Network | Avalanche | Casper Network  | CertiK Chain | Comdex One |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -120,4 +120,4 @@ We have a proven track record of providing a high-quality validation service. We
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | [<img src='https://armyids.com/wp-content/uploads/2022/11/Desmos-Network-120x120.png' width="120" height="120" hspace="10" alt='Desmos Network'>](https://ezstaking.tools/desmos/validators/desmosvaloper1xn9cazyx6u9agcwcceuahgjsrnu4y30wrmstjs) | [<img src='https://armyids.com/wp-content/uploads/2022/03/FirmaChain-120x120.png' width="120" height="120" hspace="10" alt='FirmaChain'>](https://station.firmachain.io/staking/validators/firmavaloper1fhx3c0u4ercg9c3sl3pl42sa0vauckfgwv2rq6) | [<img src='https://armyids.com/wp-content/uploads/2022/11/Gravity-Bridge-120x120.png' width="120" height="120" hspace="10" alt='Gravity Bridge'>](https://wallet.keplr.app/chains/gravity-bridge?modal=validator&chain=gravity-bridge-3&validator_address=gravityvaloper12c58fyprndjdyrh4kccpv9qmtx8qaffg22m2as) | [<img src='https://armyids.com/wp-content/uploads/2022/11/Lum-Network-120x120.png' width="120" height="120" hspace="10" alt='Lum Network'>](https://wallet.lum.network/staking) | [<img src='https://armyids.com/wp-content/uploads/2022/11/StarGaze-Zone-120x120.png' width="120" height="120" hspace="10" alt='StarGaze Zone'>](https://wallet.keplr.app/chains/stargaze?modal=validator&chain=stargaze-1&validator_address=starsvaloper16x8thpydgpsfxtzjljqyvtm8a6pkk8ggl64qr5) |
 
-If you are looking for a reliable, secured, and experienced blockchain validation service, then look no further than Army IDs.
+If you are looking for a comprehensive, reliable, secured, and experienced blockchain validation service, then look no further than Army IDs.
