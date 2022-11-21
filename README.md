@@ -125,11 +125,11 @@ If you are looking for a comprehensive, reliable, secured, & experienced blockch
 <table>
 <tbody>
 <tr>
-<td data-header="Akash Network" align="left"><a href="https://wallet.keplr.app/chains/akash?modal=validator&chain=akashnet-2&validator_address=akashvaloper1lscckv3l204makmgewun4chx3y379esju54c4q"><img src='https://armyids.com/wp-content/uploads/2020/11/Akash-Network-120x120.png' width="120" height="120" hspace="10" alt='Akash Network'></a></td>
+<td data-header="Akash Network" align="center"><a href="https://wallet.keplr.app/chains/akash?modal=validator&chain=akashnet-2&validator_address=akashvaloper1lscckv3l204makmgewun4chx3y379esju54c4q"><img src='https://armyids.com/wp-content/uploads/2020/11/Akash-Network-120x120.png' width="120" height="120" hspace="10" alt='Akash Network'></a></td>
 <td data-header="Avalanche" align="center"></td>
-<td data-header="Casper Network" align="right"></td>
-<td data-header="CertiK Chain" align="right"></td>
-<td data-header="Comdex One" align="right"></td>
+<td data-header="Casper Network" align="center"></td>
+<td data-header="CertiK Chain" align="center"></td>
+<td data-header="Comdex One" align="center"></td>
 </tr>
 </tbody>
 <thead>
