@@ -113,7 +113,6 @@ The cryptocurrency industry is full of opportunities and it must be supported by
 Our networks include some of the biggest names in the industry, such as Avalanche, Casper Network, and Cosmos SDK-based projects:
 
 <table>
-<thead>
 <tr>
 <th align="center"><a href="https://wallet.keplr.app/chains/akash?modal=validator&chain=akashnet-2&validator_address=akashvaloper1lscckv3l204makmgewun4chx3y379esju54c4q"><img src='https://armyids.com/wp-content/uploads/2020/11/Akash-Network-120x120.png' width="87.5%" height="87.5%" alt='Akash Network'></a></th>
 <th align="center"><a href="https://avascan.info/staking/validator/NodeID-3wd8cyGCDmhuoZYWmNDab2FhAVpnKYKJE"><img src='https://armyids.com/wp-content/uploads/2020/11/Avalanche-120x120.png' width="87.5%" height="87.5%" alt='Avalanche'></a></th>
@@ -122,8 +121,6 @@ Our networks include some of the biggest names in the industry, such as Avalanch
 <th align="center"><a href="https://ezstaking.tools/comdex/validators/comdexvaloper1d3udpaanu3tesn8xjsh5er6xs2fhtql42edz2k"><img src='https://armyids.com/wp-content/uploads/2022/11/Comdex-One-120x120.png' width="87.5%" height="87.5%" alt='Comdex One'></a></th>
 <th align="center"><a href="https://ezstaking.tools/desmos/validators/desmosvaloper1xn9cazyx6u9agcwcceuahgjsrnu4y30wrmstjs"><img src='https://armyids.com/wp-content/uploads/2022/11/Desmos-Network-120x120.png' width="87.5%" height="87.5%" alt='Desmos Network'></a></th>
 </tr>
-</thead>
-<tbody>
 <tr>
 <th align="center"><a href="https://station.firmachain.io/staking/validators/firmavaloper1fhx3c0u4ercg9c3sl3pl42sa0vauckfgwv2rq6"><img src='https://armyids.com/wp-content/uploads/2022/03/FirmaChain-120x120.png' width="87.5%" height="87.5%" alt='FirmaChain'></a></th>
 <th align="center"><a href="https://wallet.keplr.app/chains/gravity-bridge?modal=validator&chain=gravity-bridge-3&validator_address=gravityvaloper12c58fyprndjdyrh4kccpv9qmtx8qaffg22m2as"><img src='https://armyids.com/wp-content/uploads/2022/11/Gravity-Bridge-120x120.png' width="87.5%" height="87.5%" alt='Gravity Bridge'></a></th>
@@ -132,13 +129,11 @@ Our networks include some of the biggest names in the industry, such as Avalanch
 <th align="center"><a href="https://pylons.explorers.guru/validator/pylovaloper1ck7s2t86rc3ww7208auk69daw3lv0cgp03yey0"><img src='https://armyids.com/wp-content/uploads/2022/12/Pylons-Tech-120x120.png' width="87.5%" height="87.5%" alt='Pylons Tech'></a></th>
 <th align="center"><a href="https://wallet.keplr.app/chains/stargaze?modal=validator&chain=stargaze-1&validator_address=starsvaloper16x8thpydgpsfxtzjljqyvtm8a6pkk8ggl64qr5"><img src='https://armyids.com/wp-content/uploads/2022/11/StarGaze-Zone-120x120.png' width="87.5%" height="87.5%" alt='StarGaze Zone'></a></th>
 </tr>
-</tbody>
 </table>
 
 We are also testing the performance and stability of several testnet chains to ensure that they meet the criteria before being launched:
 
 <table>
-<thead>
 <tr>
 <th align="center"><a href="https://blastapi.io"><img src='https://armyids.com/wp-content/uploads/2022/12/Blast-API-120x120.png' width="87.5%" height="87.5%" alt='Blast API'></a></th>
 <th align="center"><a href="https://explorer.kjnodes.com/cardchain/staking/ccvaloper13h9d5z77sfksv6uweheg38669g270puzccnr5c"><img src='https://armyids.com/wp-content/uploads/2022/12/Crowd-Control-Network-120x120.png' width="87.5%" height="87.5%" alt='CardChain'></a></th>
@@ -147,8 +142,6 @@ We are also testing the performance and stability of several testnet chains to e
 <th align="center"><a href="https://ping-pub.joinloyal.io/loyal/staking/loyalvaloper1mqkxhhayjq40t689chhnw6dksk45cgv65xn6l7"><img src='https://armyids.com/wp-content/uploads/2022/12/Loyal-Labs-120x120.png' width="87.5%" height="87.5%" alt='Loyal Labs'></a></th>
 <th align="center"><a href="https://paranormal-brothers.com/massa/"><img src='https://armyids.com/wp-content/uploads/2022/12/Massa-Labs-120x120.png' width="87.5%" height="87.5%" alt='Massa Labs'></a></th>
 </tr>
-</thead>
-<tbody>
 <tr>
 <th align="center"><a href="https://okp4.explorers.guru/validator/okp4valoper1u6vp630kpjpxqp2p6xwagtlkzq58tw3zg272ka"><img src='https://armyids.com/wp-content/uploads/2022/12/OKP4-Network-120x120.png' width="87.5%" height="87.5%" alt='OKP4 Network'></a></th>
 <th align="center"><a href="https://explorer.secardnode.com/nois/staking/noisvaloper1zjryufj7x9pgrrpwr6ut3tqn36hfe0u84zd0ec"><img src='https://armyids.com/wp-content/uploads/2022/12/Nois-Network-120x120.png' width="87.5%" height="87.5%" alt='Nois Network'></a></th>
@@ -157,7 +150,6 @@ We are also testing the performance and stability of several testnet chains to e
 <th align="center"><a href="https://explorer.nodestake.top/realio-testnet/staking/realiovaloper14ntyemhf756kfaq7cfpq3jk6fywsk3y69nlvra"><img src='https://armyids.com/wp-content/uploads/2022/12/Realio-Network-120x120.png' width="87.5%" height="87.5%" alt='Realio Network'></a></th>
 <th align="center"><a href="https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1wl47xc60ngaglls244m03p6lwep4ssgjqkjq9r"><img src='https://armyids.com/wp-content/uploads/2022/12/Uptick-Network-120x120.png' width="87.5%" height="87.5%" alt='Uptick Network'></a></th>
 </tr>
-</tbody>
 </table>
 
 If you are looking for a comprehensive, reliable, secured, & experienced blockchain validator, then look no further than Army IDs.
