@@ -115,12 +115,12 @@ Our networks include some of the biggest names in the industry, such as Avalanch
 <table>
 <thead>
 <tr>
-<th align="center"><a href="https://wallet.keplr.app/chains/akash?modal=validator&chain=akashnet-2&validator_address=akashvaloper1lscckv3l204makmgewun4chx3y379esju54c4q"><img src='https://armyids.com/wp-content/uploads/2020/11/Akash-Network-120x120.png' width="120" height="120" hspace="10" alt='Akash Network'></a></th>
-<th align="center"><a href="https://avascan.info/staking/validator/NodeID-3wd8cyGCDmhuoZYWmNDab2FhAVpnKYKJE"><img src='https://armyids.com/wp-content/uploads/2020/11/Avalanche-120x120.png' width="120" height="120" hspace="10" alt='Avalanche'></a></th>
-<th align="center"><a href="https://cspr.live/delegate-stake?validatorPublicKey=011907bc6fa90ccb8cacc150170b887b3dd97a96fc029b515365141d1e5d4f7983"><img src='https://armyids.com/wp-content/uploads/2022/11/Casper-Network-120x120.png' width="120" height="120" hspace="10" alt='Casper Network'></a></th>
-<th align="center"><a href="https://wallet.keplr.app/chains/certik?modal=validator&chain=shentu-2.2&validator_address=certikvaloper176x7ljeyxx2cevmp7uayaz9qcx37nwjj7a902f"><img src='https://armyids.com/wp-content/uploads/2022/11/CertiK-Chain-120x120.png' width="120" height="120" hspace="10" alt='CertiK Chain'></a></th>
-<th align="center"><a href="https://ezstaking.tools/comdex/validators/comdexvaloper1d3udpaanu3tesn8xjsh5er6xs2fhtql42edz2k"><img src='https://armyids.com/wp-content/uploads/2022/11/Comdex-One-120x120.png' width="120" height="120" hspace="10" alt='Comdex One'></a></th>
-<th align="center"><a href="https://ezstaking.tools/desmos/validators/desmosvaloper1xn9cazyx6u9agcwcceuahgjsrnu4y30wrmstjs"><img src='https://armyids.com/wp-content/uploads/2022/11/Desmos-Network-120x120.png' width="120" height="120" hspace="10" alt='Desmos Network'></a></th>
+<th align="center"><a href="https://wallet.keplr.app/chains/akash?modal=validator&chain=akashnet-2&validator_address=akashvaloper1lscckv3l204makmgewun4chx3y379esju54c4q"><img src='https://armyids.com/wp-content/uploads/2020/11/Akash-Network-120x120.png' width="115" height="115" hspace="10" alt='Akash Network'></a></th>
+<th align="center"><a href="https://avascan.info/staking/validator/NodeID-3wd8cyGCDmhuoZYWmNDab2FhAVpnKYKJE"><img src='https://armyids.com/wp-content/uploads/2020/11/Avalanche-120x120.png' width="115" height="115" hspace="10" alt='Avalanche'></a></th>
+<th align="center"><a href="https://cspr.live/delegate-stake?validatorPublicKey=011907bc6fa90ccb8cacc150170b887b3dd97a96fc029b515365141d1e5d4f7983"><img src='https://armyids.com/wp-content/uploads/2022/11/Casper-Network-120x120.png' width="115" height="115" hspace="10" alt='Casper Network'></a></th>
+<th align="center"><a href="https://wallet.keplr.app/chains/certik?modal=validator&chain=shentu-2.2&validator_address=certikvaloper176x7ljeyxx2cevmp7uayaz9qcx37nwjj7a902f"><img src='https://armyids.com/wp-content/uploads/2022/11/CertiK-Chain-120x120.png' width="115" height="115" hspace="10" alt='CertiK Chain'></a></th>
+<th align="center"><a href="https://ezstaking.tools/comdex/validators/comdexvaloper1d3udpaanu3tesn8xjsh5er6xs2fhtql42edz2k"><img src='https://armyids.com/wp-content/uploads/2022/11/Comdex-One-120x120.png' width="115" height="115" hspace="10" alt='Comdex One'></a></th>
+<th align="center"><a href="https://ezstaking.tools/desmos/validators/desmosvaloper1xn9cazyx6u9agcwcceuahgjsrnu4y30wrmstjs"><img src='https://armyids.com/wp-content/uploads/2022/11/Desmos-Network-120x120.png' width="115" height="115" hspace="10" alt='Desmos Network'></a></th>
 </tr>
 </thead>
 <tbody>
