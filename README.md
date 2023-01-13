@@ -138,7 +138,7 @@ We are also testing the performance and stability of several testnet chains to e
 <th align="center"><a href="https://blastapi.io"><img src='https://armyids.com/wp-content/uploads/2022/12/Blast-API-120x120.png' width="87.5%" height="87.5%" alt='Blast API'></a></th>
 <th align="center"><a href="https://explorer.kjnodes.com/cardchain/staking/ccvaloper13h9d5z77sfksv6uweheg38669g270puzccnr5c"><img src='https://armyids.com/wp-content/uploads/2022/12/Crowd-Control-Network-120x120.png' width="87.5%" height="87.5%" alt='CardChain'></a></th>
 <th align="center"><a href="https://defund.explorers.guru/validator/defundvaloper1kx55rh837zz05azr8krdmr25pugcxlyq99h9r6"><img src='https://armyids.com/wp-content/uploads/2022/12/DeFund-Finance-120x120.png' width="87.5%" height="87.5%" alt='DeFund Finance'></a></th>
-<th align="center"><a href="https://explorer.gitopia.com/validators/gitopiavaloper163r9e3zm8namt67h8zw64qkxcw6qvpa69g666e"><img src='https://armyids.com/wp-content/uploads/2022/12/Gitopia-DAO-120x120.png' width="87.5%" height="87.5%" alt='Gitopia DAO'></a></th>
+<th align="center"><a href="https://explorer.gitopia.com/validators/gitopiavaloper163r9e3zm8namt67h8zw64qkxcw6qvpa69g666e"><img src='' width="87.5%" height="87.5%" alt='Gitopia DAO'></a></th>
 <th align="center"><a href="https://ping-pub.joinloyal.io/loyal/staking/loyalvaloper1mqkxhhayjq40t689chhnw6dksk45cgv65xn6l7"><img src='https://armyids.com/wp-content/uploads/2022/12/Loyal-Labs-120x120.png' width="87.5%" height="87.5%" alt='Loyal Labs'></a></th>
 <th align="center"><a href="https://paranormal-brothers.com/massa/"><img src='https://armyids.com/wp-content/uploads/2022/12/Massa-Labs-120x120.png' width="87.5%" height="87.5%" alt='Massa Labs'></a></th>
 </tr>
