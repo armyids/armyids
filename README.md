@@ -153,3 +153,19 @@ We are also testing the performance and stability of several testnet chains to e
 </table>
 
 If you are looking for a comprehensive, reliable, secured, & experienced blockchain validator, then look no further than Army IDs.
+
+<hr>
+
+### How is Our Journey So Far?
+
+We're excited to share our journey and have documented it on Notion. Here are the links to each chapter:
+
+▶ [Chapter I - The Genesis of Army IDs: Boldly Pioneering!](https://bit.ly/armyids_genesis_2020)
+
+▶ [Chapter II - The Expansion of Army IDs: Chains Assemble!](https://bit.ly/armyids_expansion_2021)
+
+▶ [Chapter III - The Bear Market Battle of Army IDs: Outmaneuvering!](https://bit.ly/armyids_bearish_2022)
+
+▶ [Chapter IV - The Fortification of Army IDs: Future-Proofing!](https://bit.ly/armyids_fortification_2023)
+
+You can also find the Army IDs Journey Logs [here](https://bit.ly/armyids_journey_logs)!
