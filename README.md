@@ -1,8 +1,5 @@
 <h2 align="center">Army IDs | A Professional Validator of Various Blockchain Networks</h2>
 
-<hr>
-<hr>
-
 ### Which Networks Do We Validate?
 
 Our networks include some of the biggest names in the industry, such as Avalanche, Casper Network, and Cosmos SDK-based projects:
@@ -50,7 +47,27 @@ We are also testing the performance and stability of several testnet chains to e
 If you are looking for a comprehensive, reliable, secured, & experienced blockchain validator, then look no further than Army IDs.
 
 <hr>
+
+### How is Our Journey So Far?
+
+We're excited to share our journey and have documented it on Notion. Here are the links to each chapter:
+
+▶ [Chapter I - The Genesis of Army IDs: Boldly Pioneering!](https://bit.ly/armyids_genesis_2020)
+
+▶ [Chapter II - The Expansion of Army IDs: Chains Assemble!](https://bit.ly/armyids_expansion_2021)
+
+▶ [Chapter III - The Bear Market Battle of Army IDs: Outmaneuvering!](https://bit.ly/armyids_bearish_2022)
+
+▶ [Chapter IV - The Fortification of Army IDs: Future-Proofing!](https://bit.ly/armyids_fortification_2023)
+
+You can also find the Army IDs Journey Logs [here](https://bit.ly/armyids_journey_logs)!
+
 <hr>
+
+<details>
+<summary><h3>Want to know more about us? Click here to expand!</h3></summary>
+
+
 
 <details>
 <summary><h3>What is Army IDs?</h3></summary>
@@ -164,18 +181,4 @@ The cryptocurrency industry is full of opportunities and it must be supported by
 
 
 
-<details>
-<summary><h3>How is Our Journey So Far?</h3></summary>
-
-We're excited to share our journey and have documented it on Notion. Here are the links to each chapter:
-
-▶ [Chapter I - The Genesis of Army IDs: Boldly Pioneering!](https://bit.ly/armyids_genesis_2020)
-
-▶ [Chapter II - The Expansion of Army IDs: Chains Assemble!](https://bit.ly/armyids_expansion_2021)
-
-▶ [Chapter III - The Bear Market Battle of Army IDs: Outmaneuvering!](https://bit.ly/armyids_bearish_2022)
-
-▶ [Chapter IV - The Fortification of Army IDs: Future-Proofing!](https://bit.ly/armyids_fortification_2023)
-
-You can also find the Army IDs Journey Logs [here](https://bit.ly/armyids_journey_logs)!
 </details>
