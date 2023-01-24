@@ -52,13 +52,25 @@ If you are looking for a comprehensive, reliable, secured, & experienced blockch
 
 We're excited to share our journey and have documented it on Notion. Here are the links to each chapter:
 
-▶ [Chapter I - The Genesis of Army IDs: Boldly Pioneering!](https://bit.ly/armyids_genesis_2020)
+<details>
+<summary><a href="https://bit.ly/armyids_genesis_2020">Chapter I - The Genesis of Army IDs: Boldly Pioneering!</></summary>
+<a href="https://bit.ly/armyids_genesis_2020"><img src='https://pbs.twimg.com/media/Fm55PruacAIae-R?format=jpg&name=large' alt='Chapter I - The Genesis of Army IDs: Boldly Pioneering!'></a>
+</details>
+  
+<details>
+<summary><a href="https://bit.ly/armyids_expansion_2021">Chapter II - The Expansion of Army IDs: Chains Assemble!</></summary>
+<a href="https://bit.ly/armyids_expansion_2021"><img src='https://pbs.twimg.com/media/Fm55duZacAIKNR2?format=jpg&name=large' alt='Chapter II - The Expansion of Army IDs: Chains Assemble!'></a>
+</details>
+  
+<details>
+<summary><a href="https://bit.ly/armyids_bearish_2022">Chapter III - The Bear Market Battle of Army IDs: Outmaneuvering!</></summary>
+<a href="https://bit.ly/armyids_bearish_2022"><img src='https://pbs.twimg.com/media/Fm55rxhagAUo3S2?format=jpg&name=large' alt='Chapter III - The Bear Market Battle of Army IDs: Outmaneuvering!'></a>
+</details>
 
-▶ [Chapter II - The Expansion of Army IDs: Chains Assemble!](https://bit.ly/armyids_expansion_2021)
-
-▶ [Chapter III - The Bear Market Battle of Army IDs: Outmaneuvering!](https://bit.ly/armyids_bearish_2022)
-
-▶ [Chapter IV - The Fortification of Army IDs: Future-Proofing!](https://bit.ly/armyids_fortification_2023)
+<details>
+<summary><a href="https://bit.ly/armyids_fortification_2023">Chapter IV - The Fortification of Army IDs: Future-Proofing!</></summary>
+<a href="https://bit.ly/armyids_fortification_2023"><img src='https://pbs.twimg.com/media/Fm547-3aMAErJsZ?format=jpg&name=large' alt='Chapter IV - The Fortification of Army IDs: Future-Proofing!'></a>
+</details>
 
 You can also find the Army IDs Journey Logs [here](https://bit.ly/armyids_journey_logs)!
 
