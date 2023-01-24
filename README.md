@@ -52,28 +52,32 @@ If you are looking for a comprehensive, reliable, secured, & experienced blockch
 
 We're excited to share our journey and have documented it on Notion. Here are the links to each chapter:
 
+<figure>
 <a href="https://bit.ly/armyids_fortification_2023"><img src='https://pbs.twimg.com/media/Fm547-3aMAErJsZ?format=jpg&name=large' alt='Chapter IV - The Fortification of Army IDs: Future-Proofing!'></a>
-<h4 align="center"><a href="https://bit.ly/armyids_fortification_2023">Chapter IV - The Fortification of Army IDs: Future-Proofing!</a></h4>
+<figcaption><p align="center"><a href="https://bit.ly/armyids_fortification_2023">Chapter IV - The Fortification of Army IDs: Future-Proofing!</a></p></figcaption>
+</figure>
 
 <br>
-<br>
-  
+
+<figure>  
 <a href="https://bit.ly/armyids_bearish_2022"><img src='https://pbs.twimg.com/media/Fm55rxhagAUo3S2?format=jpg&name=large' alt='Chapter III - The Bear Market Battle of Army IDs: Outmaneuvering!'></a>
-<h4 align="center"><a href="https://bit.ly/armyids_bearish_2022">Chapter III - The Bear Market Battle of Army IDs: Outmaneuvering!</a></h4>
+<figcaption><p align="center"><a href="https://bit.ly/armyids_bearish_2022">Chapter III - The Bear Market Battle of Army IDs: Outmaneuvering!</a></p></figcaption>
+</figure>
 
 <br>
-<br>
 
+<figure>
 <a href="https://bit.ly/armyids_expansion_2021"><img src='https://pbs.twimg.com/media/Fm55duZacAIKNR2?format=jpg&name=large' alt='Chapter II - The Expansion of Army IDs: Chains Assemble!'></a>
-<h4 align="center"><a href="https://bit.ly/armyids_expansion_2021">Chapter II - The Expansion of Army IDs: Chains Assemble!</a></h4>
+<figcaption><p align="center"><a href="https://bit.ly/armyids_expansion_2021">Chapter II - The Expansion of Army IDs: Chains Assemble!</a></p></figcaption>
+</figure>
 
 <br>
-<br>
 
+<figure>
 <a href="https://bit.ly/armyids_genesis_2020"><img src='https://pbs.twimg.com/media/Fm55PruacAIae-R?format=jpg&name=large' alt='Chapter I - The Genesis of Army IDs: Boldly Pioneering!'></a>
-<h4 align="center"><a href="https://bit.ly/armyids_genesis_2020">Chapter I - The Genesis of Army IDs: Boldly Pioneering!</a></h4>
+<figcaption><p align="center"><a href="https://bit.ly/armyids_genesis_2020">Chapter I - The Genesis of Army IDs: Boldly Pioneering!</a></p></figcaption>
+</figure>
 
-<br>
 <br>
 
 You can also find the full Army IDs Journey Logs [here](https://bit.ly/armyids_journey_logs):
