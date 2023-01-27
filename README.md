@@ -28,19 +28,11 @@ We are also testing the performance and stability of several testnet chains to e
 <table>
 <tr>
 <th align="center"><a href="https://blastapi.io"><img src='https://armyids.com/wp-content/uploads/2022/12/Blast-API-120x120.png' width="87.5%" height="87.5%" alt='Blast API'></a></th>
-<th align="center"><a href="https://explorer.kjnodes.com/cardchain/staking/ccvaloper13h9d5z77sfksv6uweheg38669g270puzccnr5c"><img src='https://armyids.com/wp-content/uploads/2022/12/Crowd-Control-Network-120x120.png' width="87.5%" height="87.5%" alt='CardChain'></a></th>
 <th align="center"><a href="https://defund.explorers.guru/validator/defundvaloper1kx55rh837zz05azr8krdmr25pugcxlyq99h9r6"><img src='https://armyids.com/wp-content/uploads/2022/12/DeFund-Finance-120x120.png' width="87.5%" height="87.5%" alt='DeFund Finance'></a></th>
-<th align="center"><a href="https://explorer.gitopia.com/validators/gitopiavaloper163r9e3zm8namt67h8zw64qkxcw6qvpa69g666e"><img src='https://armyids.com/wp-content/uploads/2022/12/Gitopia-DAO-120x120.png' width="87.5%" height="87.5%" alt='Gitopia DAO'></a></th>
-<th align="center"><a href="https://ping-pub.joinloyal.io/loyal/staking/loyalvaloper1mqkxhhayjq40t689chhnw6dksk45cgv65xn6l7"><img src='https://armyids.com/wp-content/uploads/2022/12/Loyal-Labs-120x120.png' width="87.5%" height="87.5%" alt='Loyal Labs'></a></th>
 <th align="center"><a href="https://paranormal-brothers.com/massa/"><img src='https://armyids.com/wp-content/uploads/2022/12/Massa-Labs-120x120.png' width="87.5%" height="87.5%" alt='Massa Labs'></a></th>
-</tr>
-<tr>
-<th align="center"><a href="https://explorer.secardnode.com/nois/staking/noisvaloper1zjryufj7x9pgrrpwr6ut3tqn36hfe0u84zd0ec"><img src='https://armyids.com/wp-content/uploads/2022/12/Nois-Network-120x120.png' width="87.5%" height="87.5%" alt='Nois Network'></a></th>
 <th align="center"><a href="https://okp4.explorers.guru/validator/okp4valoper1u6vp630kpjpxqp2p6xwagtlkzq58tw3zg272ka"><img src='https://armyids.com/wp-content/uploads/2022/12/OKP4-Network-120x120.png' width="87.5%" height="87.5%" alt='OKP4 Network'></a></th>
 <th align="center"><a href="https://ollo.explorers.guru/validator/ollovaloper1lwpw476q9zduk47ppw4ljc4yu9hmdhksq4rsnp"><img src='https://armyids.com/wp-content/uploads/2022/12/Ollo-Zone-120x120.png' width="87.5%" height="87.5%" alt='Ollo Zone'></a></th>
 <th align="center"><a href="https://explorer.nodestake.top/realio-testnet/staking/realiovaloper14ntyemhf756kfaq7cfpq3jk6fywsk3y69nlvra"><img src='https://armyids.com/wp-content/uploads/2022/12/Realio-Network-120x120.png' width="87.5%" height="87.5%" alt='Realio Network'></a></th>
-<th align="center"><a href="https://explorer.stavr.tech/source/staking/sourcevaloper1h0f38wthmufujye0f7g5xrrpvtx7j2e9uf3gk0"><img src='https://armyids.com/wp-content/uploads/2022/12/Source-Protocol-120x120.png' width="87.5%" height="87.5%" alt='Source Protocol'></a></th>
-<th align="center"><a href="https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1wl47xc60ngaglls244m03p6lwep4ssgjqkjq9r"><img src='https://armyids.com/wp-content/uploads/2022/12/Uptick-Network-120x120.png' width="87.5%" height="87.5%" alt='Uptick Network'></a></th>
 </tr>
 </table>
 
