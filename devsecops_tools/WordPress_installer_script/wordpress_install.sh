@@ -27,7 +27,7 @@ cp -r wordpress/* $WEB_ROOT && rm -r latest.tar.gz wordpress
 chown -R www-data:www-data $WEB_ROOT
 
 # Install all necessary applications
-apt-get update && apt-get install -y nginx php7.4-fpm php-mysql mariadb-server software-properties-common certbot python3-certbot-nginx
+apt-get update && apt-get install -y nginx php7.4-fpm php7.4-mysql mariadb-server software-properties-common certbot python3-certbot-nginx
 
 # Secure MariaDB installation
 mysql_secure_installation
