@@ -27,8 +27,6 @@ We are also testing the performance and stability of several testnet chains to e
 
 <table>
 <tr>
-<th align="center"><a href="https://blastapi.io"><img src='https://armyids.com/wp-content/uploads/2022/12/Blast-API-120x120.png' width="87.5%" height="87.5%" alt='Blast API'></a></th>
-<th align="center"><a href="https://defund.explorers.guru/validator/defundvaloper1kx55rh837zz05azr8krdmr25pugcxlyq99h9r6"><img src='https://armyids.com/wp-content/uploads/2022/12/DeFund-Finance-120x120.png' width="87.5%" height="87.5%" alt='DeFund Finance'></a></th>
 <th align="center"><a href="https://paranormal-brothers.com/massa/"><img src='https://armyids.com/wp-content/uploads/2022/12/Massa-Labs-120x120.png' width="87.5%" height="87.5%" alt='Massa Labs'></a></th>
 <th align="center"><a href="https://okp4.explorers.guru/validator/okp4valoper1u6vp630kpjpxqp2p6xwagtlkzq58tw3zg272ka"><img src='https://armyids.com/wp-content/uploads/2022/12/OKP4-Network-120x120.png' width="87.5%" height="87.5%" alt='OKP4 Network'></a></th>
 <th align="center"><a href="https://ollo.explorers.guru/validator/ollovaloper1lwpw476q9zduk47ppw4ljc4yu9hmdhksq4rsnp"><img src='https://armyids.com/wp-content/uploads/2022/12/Ollo-Zone-120x120.png' width="87.5%" height="87.5%" alt='Ollo Zone'></a></th>
