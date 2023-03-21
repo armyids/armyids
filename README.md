@@ -29,7 +29,7 @@ We are also testing the performance and stability of several testnet chains to e
 <tr>
 <th align="center"><a href="https://www.skynetexplorers.com/althea/staking/altheavaloper1sgjcy4krncman5fenge9m95k0tx2hepylar60u"><img src='https://armyids.com/wp-content/uploads/2023/02/Althea-Network-120x120.png' width="87.5%" height="87.5%" alt='Althea Network'></a></th>
 <th align="center"><a href="https://paranormal-brothers.com/massa/"><img src='https://armyids.com/wp-content/uploads/2022/12/Massa-Labs-120x120.png' width="87.5%" height="87.5%" alt='Massa Labs'></a></th>
-<th align="center"><a href="https://namada.explorers.guru/validators"><img src='https://armyids.com/wp-content/uploads/2023/03/Namada-Network-120x120.png' width="87.5%" height="87.5%" alt='Namada Network (Paused)'></a></th>
+<th align="center"><a href="https://namada.explorers.guru/validators"><img src='https://armyids.com/wp-content/uploads/2023/03/Namada-Network-120x120.png' width="87.5%" height="87.5%" alt='Status: Paused!'></a></th>
 <th align="center"><a href="https://ojo.explorers.guru/validator/ojovaloper1z6nd8edvle7n5grl9xaylg8th96yrwnfqt730y"><img src='https://armyids.com/wp-content/uploads/2023/03/Ojo-Network-120x120.png' width="87.5%" height="87.5%" alt='Ojo Network'></a></th>
 <th align="center"><a href="https://okp4.explorers.guru/validator/okp4valoper1u6vp630kpjpxqp2p6xwagtlkzq58tw3zg272ka"><img src='https://armyids.com/wp-content/uploads/2022/12/OKP4-Network-120x120.png' width="87.5%" height="87.5%" alt='OKP4 Network'></a></th>
 <th align="center"><a href="https://ollo.explorers.guru/validator/ollovaloper1lwpw476q9zduk47ppw4ljc4yu9hmdhksq4rsnp"><img src='https://armyids.com/wp-content/uploads/2022/12/Ollo-Zone-120x120.png' width="87.5%" height="87.5%" alt='Ollo Zone'></a></th>
