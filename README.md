@@ -40,8 +40,6 @@ We are also testing the performance and stability of several testnet chains to e
 </tr>
 </table>
 
-If you are looking for a comprehensive, reliable, secured, & experienced blockchain validator, then look no further than Army IDs.
-
 <hr>
 
 ### How is Our Journey So Far?
