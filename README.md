@@ -44,8 +44,6 @@ We are also testing the performance and stability of several testnet chains to e
 
 ### When was the Army IDs' initiative born? A look back at our progress: from Genesis to Fortification!
 
-We're excited to share our journey and have documented it on Notion. Here are the links to each chapter:
-
 <figure>
 <a href="https://bit.ly/armyids_fortification_2023"><img src='https://pbs.twimg.com/media/Fm547-3aMAErJsZ?format=jpg&name=large' alt='Chapter IV - The Fortification of Army IDs: Future-Proofing!'></a>
 <figcaption><p align="center"><a href="https://bit.ly/armyids_fortification_2023">Chapter IV - The Fortification of Army IDs: Future-Proofing!</a></p></figcaption>
@@ -73,8 +71,6 @@ We're excited to share our journey and have documented it on Notion. Here are th
 </figure>
 
 <br>
-
-You can also find the full Army IDs Journey Logs [here](https://bit.ly/armyids_journey_logs):
 
 <a href="https://bit.ly/armyids_journey_logs"><img src='https://armyids.com/wp-content/uploads/2022/12/Logo-Banner.png' alt='Army IDs Journey Logs'></a>
 
