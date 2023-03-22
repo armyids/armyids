@@ -42,7 +42,7 @@ We are also testing the performance and stability of several testnet chains to e
 
 <hr>
 
-### When was the Army IDs' initiative born? A look back at our progress: from Genesis to Fortification!
+### When was Army IDs initiated? A look back at our progress: from Genesis to Fortification!
 
 <figure>
 <a href="https://bit.ly/armyids_fortification_2023"><img src='https://pbs.twimg.com/media/Fm547-3aMAErJsZ?format=jpg&name=large' alt='Chapter IV - The Fortification of Army IDs: Future-Proofing!'></a>
