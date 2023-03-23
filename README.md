@@ -1,6 +1,6 @@
 <h2 align="center">Army IDs | A Professional Validator of Various Blockchain Networks</h2>
 
-### Which Networks are We Validating?
+### Which networks are we validating?
 
 Our networks include some of the biggest names in the industry, such as Avalanche, Casper Network, and Cosmos SDK-based projects:
 
@@ -42,7 +42,9 @@ We are also testing the performance and stability of several testnet chains to e
 
 <hr>
 
-### When was Army IDs initiated? A look back at our progress: from Genesis to Fortification!
+### When was Army IDs initiated?
+
+We're taking you on an adventure through our experience as a validator: a look back at our progress from Genesis to Fortification!
 
 <figure>
 <a href="https://bit.ly/armyids_fortification_2023"><img src='https://pbs.twimg.com/media/Fm547-3aMAErJsZ?format=jpg&name=large' alt='Chapter IV - The Fortification of Army IDs: Future-Proofing!'></a>
