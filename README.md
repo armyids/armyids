@@ -27,7 +27,7 @@ We are also testing the performance and stability of several testnet chains to e
 
 <table>
 <tr>
-<th align="center"><a href="https://www.skynetexplorers.com/althea/staking/altheavaloper1sgjcy4krncman5fenge9m95k0tx2hepylar60u"><img src='https://armyids.com/wp-content/uploads/2023/02/Althea-Network-120x120.png' width="87.5%" height="87.5%" alt='Althea Network'></a></th>
+<th align="center"><a href="https://althea.explorers.guru/validator/altheavaloper1sgjcy4krncman5fenge9m95k0tx2hepylar60u"><img src='https://armyids.com/wp-content/uploads/2023/02/Althea-Network-120x120.png' width="87.5%" height="87.5%" alt='Althea Network'></a></th>
 <th align="center"><a href="https://defund.explorers.guru/validator/defundvaloper1kx55rh837zz05azr8krdmr25pugcxlyq99h9r6"><img src='https://armyids.com/wp-content/uploads/2022/12/DeFund-Finance-120x120.png' width="87.5%" height="87.5%" alt='DeFund Finance'></a></th>
 <th align="center"><a href="https://paranormal-brothers.com/massa/"><img src='https://armyids.com/wp-content/uploads/2022/12/Massa-Labs-120x120.png' width="87.5%" height="87.5%" alt='Massa Labs'></a></th>
 <th align="center"><a href="https://namada.explorers.guru/validators"><img src='https://armyids.com/wp-content/uploads/2023/03/Namada-Network-120x120.png' width="87.5%" height="87.5%" alt='Status: Paused!'></a></th>
