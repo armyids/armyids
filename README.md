@@ -18,6 +18,7 @@ Our networks include some of the biggest names in the industry, such as Avalanch
 <th align="center"><a href="https://wallet.lum.network/staking"><img src='https://armyids.com/wp-content/uploads/2022/11/Lum-Network-120x120.png' width="87.5%" height="87.5%" alt='Lum Network'></a></th>
 <th align="center"><a href="https://www.mintscan.io/passage/validators/pasgvaloper12malnvcwd5lw02pznqvf384kz8t9da3xx4lzyd"><img src='https://armyids.com/wp-content/uploads/2022/12/Passage-IO-120x120.png' width="87.5%" height="87.5%" alt='Passage IO'></a></th>
 <th align="center"><a href="https://pylons.explorers.guru/validator/pylovaloper1ck7s2t86rc3ww7208auk69daw3lv0cgp03yey0"><img src='https://armyids.com/wp-content/uploads/2022/12/Pylons-Tech-120x120.png' width="87.5%" height="87.5%" alt='Pylons Tech'></a></th>
+<th align="center"><a href="https://exp.nodeist.net/Realio/staking/realiovaloper1a3vqugel6vxcaes5z800edcqas6zpa83xeengc"><img src='https://armyids.com/wp-content/uploads/2022/12/Realio-Network-120x120.png' width="87.5%" height="87.5%" alt='Realio Network'></a></th>
 <th align="center"><a href="https://wallet.keplr.app/chains/stargaze?modal=validator&chain=stargaze-1&validator_address=starsvaloper16x8thpydgpsfxtzjljqyvtm8a6pkk8ggl64qr5"><img src='https://armyids.com/wp-content/uploads/2022/11/StarGaze-Zone-120x120.png' width="87.5%" height="87.5%" alt='StarGaze Zone'></a></th>
 </tr>
 </table>
