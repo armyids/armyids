@@ -35,7 +35,7 @@ We are also testing the performance and stability of several testnet chains to e
 <th align="center"><a href="https://ollo.explorers.guru/validator/ollovaloper1lwpw476q9zduk47ppw4ljc4yu9hmdhksq4rsnp"><img src='https://armyids.com/wp-content/uploads/2022/12/Ollo-Zone-120x120.png' width="87.5%" height="87.5%" alt='Ollo Zone'></a></th>
 </tr>
 <tr>
-<th align="center"><a href="https://pre-alpha-beacon.opside.info"><img src='https://armyids.com/wp-content/uploads/2023/06/Opside-Network-120x120.png' width="87.5%" height="87.5%" alt='Opside Network'></a></th>
+<th align="center"><a href="https://opside.network/validator/overview"><img src='https://armyids.com/wp-content/uploads/2023/06/Opside-Network-120x120.png' width="87.5%" height="87.5%" alt='Opside Network'></a></th>
 </tr>
 </table>
 
