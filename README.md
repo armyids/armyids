@@ -2,7 +2,7 @@
 
 ### Which networks are we validating?
 
-Our networks include some of the biggest names in the industry, such as Avalanche, Casper Network, and Cosmos SDK-based projects:
+Our networks include some of the biggest names in the industry, such as Avalanche and Cosmos SDK-based projects:
 
 <table>
 <tr>
