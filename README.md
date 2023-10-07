@@ -36,6 +36,7 @@ We are also testing the performance and stability of several testnet chains to e
 </tr>
 <tr>
 <th align="center"><a href="https://opside.network/validator/0xaad8574a283fc8ff265a95889e91703c8b0ed3c405950e7977a4c85e6bfce841a51963c2d9faaf40c9515eb7ee3484e5"><img src='https://armyids.com/wp-content/uploads/2023/06/Opside-Network-120x120.png' width="87.5%" height="87.5%" alt='Opside Network'></a></th>
+<th align="center"><a href="https://explorer.kjnodes.com/source-testnet/staking/sourcevaloper1h0f38wthmufujye0f7g5xrrpvtx7j2e9uf3gk0"><img src='https://explorer.kjnodes.com/source-testnet/staking/sourcevaloper1h0f38wthmufujye0f7g5xrrpvtx7j2e9uf3gk0' width="87.5%" height="87.5%" alt='Voi Network'></a></th>
 <th align="center"><a href="https://voi-node-info.boeieruurd.com"><img src='https://armyids.com/wp-content/uploads/2023/10/Voi-Network-120x120.png' width="87.5%" height="87.5%" alt='Voi Network'></a></th>
 </tr>
 </table>
