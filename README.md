@@ -28,13 +28,14 @@ We are also testing the performance and stability of several testnet chains to e
 <table>
 <tr>
 <th align="center"><a href="https://althea.explorers.guru/validator/altheavaloper1jnuhu5ca3xlmy0rywdcf6hdd5zvrsw4902pgq4"><img src='https://armyids.com/wp-content/uploads/2023/02/Althea-Network-120x120.png' width="87.5%" height="87.5%" alt='Althea Network'></a></th>
+<th align="center"><a href="https://testnet.itrocket.net/mantra/staking/mantravaloper1c9gc4s0wv6kn2770cc826w0jej2d9glqs7y0ey"><img src='https://armyids.com/wp-content/uploads/2023/10/Mantra-Chain-120x120.png' width="87.5%" height="87.5%" alt='Mantra Chain'></a></th>
 <th align="center"><a href="https://namada.explorers.guru/validators"><img src='https://armyids.com/wp-content/uploads/2023/03/Namada-Network-120x120.png' width="87.5%" height="87.5%" alt='Namada Network'></a></th>
 <th align="center"><a href="https://ojo.explorers.guru/validator/ojovaloper1z6nd8edvle7n5grl9xaylg8th96yrwnfqt730y"><img src='https://armyids.com/wp-content/uploads/2023/03/Ojo-Network-120x120.png' width="87.5%" height="87.5%" alt='Ojo Network'></a></th>
 <th align="center"><a href="https://okp4.explorers.guru/validator/okp4valoper1u6vp630kpjpxqp2p6xwagtlkzq58tw3zg272ka"><img src='https://armyids.com/wp-content/uploads/2022/12/OKP4-Network-120x120.png' width="87.5%" height="87.5%" alt='OKP4 Network'></a></th>
 <th align="center"><a href="https://ollo.explorers.guru/validator/ollovaloper1lwpw476q9zduk47ppw4ljc4yu9hmdhksq4rsnp"><img src='https://armyids.com/wp-content/uploads/2022/12/Ollo-Zone-120x120.png' width="87.5%" height="87.5%" alt='Ollo Zone'></a></th>
-<th align="center"><a href="https://opside.network/validator/0xaad8574a283fc8ff265a95889e91703c8b0ed3c405950e7977a4c85e6bfce841a51963c2d9faaf40c9515eb7ee3484e5"><img src='https://armyids.com/wp-content/uploads/2023/06/Opside-Network-120x120.png' width="87.5%" height="87.5%" alt='Opside Network'></a></th>
 </tr>
 <tr>
+<th align="center"><a href="https://opside.network/validator/0xaad8574a283fc8ff265a95889e91703c8b0ed3c405950e7977a4c85e6bfce841a51963c2d9faaf40c9515eb7ee3484e5"><img src='https://armyids.com/wp-content/uploads/2023/06/Opside-Network-120x120.png' width="87.5%" height="87.5%" alt='Opside Network'></a></th>
 <th align="center"><a href="https://explorer.kjnodes.com/source-testnet/staking/sourcevaloper1h0f38wthmufujye0f7g5xrrpvtx7j2e9uf3gk0"><img src='https://armyids.com/wp-content/uploads/2022/12/Source-Protocol-120x120.png' width="87.5%" height="87.5%" alt='Source Protocol'></a></th>
 <th align="center"><a href="https://voi-node-info.boeieruurd.com"><img src='https://armyids.com/wp-content/uploads/2023/10/Voi-Network-120x120.png' width="87.5%" height="87.5%" alt='Voi Network'></a></th>
 </tr>
