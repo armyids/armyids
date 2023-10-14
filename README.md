@@ -37,7 +37,6 @@ We are also testing the performance and stability of several testnet chains to e
 <tr>
 <th align="center"><a href="https://ollo.explorers.guru/validator/ollovaloper1lwpw476q9zduk47ppw4ljc4yu9hmdhksq4rsnp"><img src='https://armyids.com/wp-content/uploads/2022/12/Ollo-Zone-120x120.png' width="87.5%" height="87.5%" alt='Ollo Zone'></a></th>
 <th align="center"><a href="https://alpha-beacon.lumoz.info/dashboard?validators=8366"><img src='https://armyids.com/wp-content/uploads/2023/06/Opside-Network-120x120.png' width="87.5%" height="87.5%" alt='Opside Network'></a></th>
-<th align="center"><a href="https://explorer.kjnodes.com/source-testnet/staking/sourcevaloper1h0f38wthmufujye0f7g5xrrpvtx7j2e9uf3gk0"><img src='https://armyids.com/wp-content/uploads/2022/12/Source-Protocol-120x120.png' width="87.5%" height="87.5%" alt='Source Protocol'></a></th>
 <th align="center"><a href="https://voi-node-info.boeieruurd.com"><img src='https://armyids.com/wp-content/uploads/2023/10/Voi-Network-120x120.png' width="87.5%" height="87.5%" alt='Voi Network'></a></th>
 </tr>
 </table>
