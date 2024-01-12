@@ -38,10 +38,18 @@ We are also testing the performance and stability of several testnet chains to e
 
 ### When was Army IDs initiated?
 
+<figure>
+<a href="https://www.mintscan.io/visualization/validators/armyids"><img src='https://pbs.twimg.com/media/Fm547-3aMAErJsZ?format=jpg&name=large'></a>
+</figure>
+
+<be>
+<br>
+<br>
+
 We're taking you on an adventure through our experience as a validator: a look back at our progress from Genesis to Fortification!
 
 <figure>
-<a href="https://bit.ly/armyids_fortification_2023"><img src='https://pbs.twimg.com/media/Fm547-3aMAErJsZ?format=jpg&name=large' alt='Chapter IV - The Fortification of Army IDs: Future-Proofing!'></a>
+<a href="https://bit.ly/armyids_fortification_2023"><img src='https://armyids.com/wp-content/uploads/2024/01/armyids_fortification_2023.png' alt='Chapter IV - The Fortification of Army IDs: Future-Proofing!'></a>
 <figcaption><p align="center"><a href="https://bit.ly/armyids_fortification_2023">Chapter IV - The Fortification of Army IDs: Future-Proofing!</a></p></figcaption>
 </figure>
 
