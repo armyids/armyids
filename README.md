@@ -16,8 +16,8 @@ Our networks include some of the biggest names in the industry, such as Avalanch
 <tr>
 <th align="center"><a href="https://wallet.keplr.app/chains/gravity-bridge?modal=validator&chain=gravity-bridge-3&validator_address=gravityvaloper12c58fyprndjdyrh4kccpv9qmtx8qaffg22m2as"><img src='https://armyids.com/wp-content/uploads/2022/11/Gravity-Bridge-120x120.png' width="87.5%" height="87.5%" alt='Gravity Bridge'></a></th>
 <th align="center"><a href="https://wallet.lum.network/staking"><img src='https://armyids.com/wp-content/uploads/2022/11/Lum-Network-120x120.png' width="87.5%" height="87.5%" alt='Lum Network'></a></th>
-<th align="center"><a href="https://www.mintscan.io/passage/validators/pasgvaloper12malnvcwd5lw02pznqvf384kz8t9da3xx4lzyd"><img src='https://armyids.com/wp-content/uploads/2022/12/Passage-IO-120x120.png' width="87.5%" height="87.5%" alt='Passage IO'></a></th>
 <th align="center"><a href="https://explorer.massa.net/mainnet/address/AU1GZLpDuh1YBm2gS2iRxg4Tm2w18VuXY6rwExwHfLNM9ZSw8Z8i"><img src='https://armyids.com/wp-content/uploads/2022/12/Massa-Labs-120x120.png' width="87.5%" height="87.5%" alt='Massa Labs'></a></th>
+<th align="center"><a href="https://www.mintscan.io/passage/validators/pasgvaloper12malnvcwd5lw02pznqvf384kz8t9da3xx4lzyd"><img src='https://armyids.com/wp-content/uploads/2022/12/Passage-IO-120x120.png' width="87.5%" height="87.5%" alt='Passage IO'></a></th>
 <th align="center"><a href="https://pylons.explorers.guru/validator/pylovaloper1ck7s2t86rc3ww7208auk69daw3lv0cgp03yey0"><img src='https://armyids.com/wp-content/uploads/2022/12/Pylons-Tech-120x120.png' width="87.5%" height="87.5%" alt='Pylons Tech'></a></th>
 <th align="center"><a href="https://exp.nodeist.net/Realio/staking/realiovaloper1a3vqugel6vxcaes5z800edcqas6zpa83xeengc"><img src='https://armyids.com/wp-content/uploads/2022/12/Realio-Network-120x120.png' width="87.5%" height="87.5%" alt='Realio Network'></a></th>
 </tr>
