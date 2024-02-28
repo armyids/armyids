@@ -32,7 +32,6 @@ We are also testing the performance and stability of several testnet chains to e
 <tr>
 <th align="center"><a href="https://althea.explorers.guru/validator/altheavaloper1jnuhu5ca3xlmy0rywdcf6hdd5zvrsw4902pgq4"><img src='https://armyids.com/wp-content/uploads/2023/02/Althea-Network-120x120.png' width="87.5%" height="87.5%" alt='Althea Network'></a></th>
 <th align="center"><a href="https://namada.explorers.guru"><img src='https://armyids.com/wp-content/uploads/2023/03/Namada-Network-120x120.png' width="87.5%" height="87.5%" alt='Namada Network'></a></th>
-<th align="center"><a href="https://okp4.explorers.guru/validator/okp4valoper1u6vp630kpjpxqp2p6xwagtlkzq58tw3zg272ka"><img src='https://armyids.com/wp-content/uploads/2022/12/OKP4-Network-120x120.png' width="87.5%" height="87.5%" alt='OKP4 Network'></a></th>
 <th align="center"><a href="https://explorer.side.exchange/testnet/staking/sidevaloper1da7wg2wr40tedwvgcltt53sevrasdy38vya7fs"><img src='https://armyids.com/wp-content/uploads/2024/02/Side-Protocol-120x120.png' width="87.5%" height="87.5%" alt='Side Protocol'></a></th>
 <th align="center"><a href="https://tea.xyz"><img src='https://armyids.com/wp-content/uploads/2024/02/Tea-Protocol-120x120.png' width="87.5%" height="87.5%" alt='Tea Protocol'></a></th>
 </tr>
