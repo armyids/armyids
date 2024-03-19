@@ -31,9 +31,7 @@ We are also testing the performance and stability of several testnet chains to e
 <table>
 <tr>
 <th align="center"><a href="https://althea.explorers.guru/validator/altheavaloper1z7pvh3jmej95kukpa23czwkfpxqg3f4f2a8utz"><img src='https://armyids.com/wp-content/uploads/2023/02/Althea-Network-120x120.png' width="87.5%" height="87.5%" alt='Althea Network'></a></th>
-<th align="center"><a href="https://namada.explorers.guru"><img src='https://armyids.com/wp-content/uploads/2023/03/Namada-Network-120x120.png' width="87.5%" height="87.5%" alt='Namada Network'></a></th>
 <th align="center"><a href="https://explorer.side.exchange/testnet/staking/sidevaloper1da7wg2wr40tedwvgcltt53sevrasdy38vya7fs"><img src='https://armyids.com/wp-content/uploads/2024/02/Side-Protocol-120x120.png' width="87.5%" height="87.5%" alt='Side Protocol'></a></th>
-<th align="center"><a href="https://tea.xyz"><img src='https://armyids.com/wp-content/uploads/2024/02/Tea-Protocol-120x120.png' width="87.5%" height="87.5%" alt='Tea Protocol'></a></th>
 </tr>
 </table>
 
