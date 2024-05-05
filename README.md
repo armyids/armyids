@@ -29,7 +29,7 @@ Our networks include some of the biggest names in the industry, such as Avalanch
 We are also testing the performance and stability of several testnet chains to ensure that they meet the criteria before being launched:
 <table>
 <tr>
-<th align="center"><a href="https://explorer.side.exchange/testnet/staking/bcvaloper138yhp56xda28yqwzmgwar6xl8all800wnu7nx6"><img src='https://armyids.com/wp-content/uploads/2024/02/Side-Protocol-120x120.png' width="87.5%" height="87.5%" alt='Side Protocol'></a></th>
+<th align="center"><a href="https://testnet.ping.pub/testnet/staking/bcvaloper138yhp56xda28yqwzmgwar6xl8all800wnu7nx6"><img src='https://armyids.com/wp-content/uploads/2024/02/Side-Protocol-120x120.png' width="87.5%" height="87.5%" alt='Side Protocol'></a></th>
 </tr>
 </table>
 
