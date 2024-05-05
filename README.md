@@ -7,7 +7,7 @@ Our networks include some of the biggest names in the industry, such as Avalanch
 <table>
 <tr>
 <th align="center"><a href="https://wallet.keplr.app/chains/akash?modal=validator&chain=akashnet-2&validator_address=akashvaloper1lscckv3l204makmgewun4chx3y379esju54c4q"><img src='https://armyids.com/wp-content/uploads/2020/11/Akash-Network-120x120.png' width="87.5%" height="87.5%" alt='Akash Network'></a></th>
-<th align="center"><a href="https://althea.link/staking"><img src='https://armyids.com/wp-content/uploads/2020/11/Akash-Network-120x120.png' width="87.5%" height="87.5%" alt='Althea Network'></a></th>
+<th align="center"><a href="https://althea.link/staking"><img src='https://armyids.com/wp-content/uploads/2023/02/Althea-Network-120x120.png' width="87.5%" height="87.5%" alt='Althea Network'></a></th>
 <th align="center"><a href="https://avascan.info/staking/validator/NodeID-3wd8cyGCDmhuoZYWmNDab2FhAVpnKYKJE"><img src='https://armyids.com/wp-content/uploads/2020/11/Avalanche-120x120.png' width="87.5%" height="87.5%" alt='Avalanche'></a></th>
 <th align="center"><a href="https://wallet.keplr.app/chains/certik?modal=validator&chain=shentu-2.2&validator_address=certikvaloper176x7ljeyxx2cevmp7uayaz9qcx37nwjj7a902f"><img src='https://armyids.com/wp-content/uploads/2022/11/CertiK-Chain-120x120.png' width="87.5%" height="87.5%" alt='CertiK Chain'></a></th>
 <th align="center"><a href="https://ezstaking.tools/comdex/validators/comdexvaloper1d3udpaanu3tesn8xjsh5er6xs2fhtql42edz2k"><img src='https://armyids.com/wp-content/uploads/2022/11/Comdex-One-120x120.png' width="87.5%" height="87.5%" alt='Comdex One'></a></th>
