@@ -10,28 +10,20 @@ Our networks include some of the biggest names in the industry, such as Avalanch
 <th align="center"><a href="https://althea.link/staking"><img src='https://armyids.com/wp-content/uploads/2023/02/Althea-Network-120x120.png' width="87.5%" height="87.5%" alt='Althea Network'></a></th>
 <th align="center"><a href="https://avascan.info/staking/validator/NodeID-3wd8cyGCDmhuoZYWmNDab2FhAVpnKYKJE"><img src='https://armyids.com/wp-content/uploads/2020/11/Avalanche-120x120.png' width="87.5%" height="87.5%" alt='Avalanche'></a></th>
 <th align="center"><a href="https://wallet.keplr.app/chains/certik?modal=validator&chain=shentu-2.2&validator_address=certikvaloper176x7ljeyxx2cevmp7uayaz9qcx37nwjj7a902f"><img src='https://armyids.com/wp-content/uploads/2022/11/CertiK-Chain-120x120.png' width="87.5%" height="87.5%" alt='CertiK Chain'></a></th>
-<th align="center"><a href="https://ezstaking.tools/comdex/validators/comdexvaloper1d3udpaanu3tesn8xjsh5er6xs2fhtql42edz2k"><img src='https://armyids.com/wp-content/uploads/2022/11/Comdex-One-120x120.png' width="87.5%" height="87.5%" alt='Comdex One'></a></th>
-<th align="center"><a href="https://ezstaking.tools/desmos/validators/desmosvaloper1xn9cazyx6u9agcwcceuahgjsrnu4y30wrmstjs"><img src='https://armyids.com/wp-content/uploads/2022/11/Desmos-Network-120x120.png' width="87.5%" height="87.5%" alt='Desmos Network'></a></th>
-</tr>
-<tr>
 <th align="center"><a href="https://station.firmachain.io/staking/validators/firmavaloper1fhx3c0u4ercg9c3sl3pl42sa0vauckfgwv2rq6"><img src='https://armyids.com/wp-content/uploads/2022/03/FirmaChain-120x120.png' width="87.5%" height="87.5%" alt='FirmaChain'></a></th>
 <th align="center"><a href="https://wallet.keplr.app/chains/gravity-bridge?modal=validator&chain=gravity-bridge-3&validator_address=gravityvaloper12c58fyprndjdyrh4kccpv9qmtx8qaffg22m2as"><img src='https://armyids.com/wp-content/uploads/2022/11/Gravity-Bridge-120x120.png' width="87.5%" height="87.5%" alt='Gravity Bridge'></a></th>
+</tr>
+<tr>
 <th align="center"><a href="https://wallet.lum.network/staking"><img src='https://armyids.com/wp-content/uploads/2022/11/Lum-Network-120x120.png' width="87.5%" height="87.5%" alt='Lum Network'></a></th>
 <th align="center"><a href="https://explorer.massa.net/mainnet/address/AU1GZLpDuh1YBm2gS2iRxg4Tm2w18VuXY6rwExwHfLNM9ZSw8Z8i"><img src='https://armyids.com/wp-content/uploads/2022/12/Massa-Labs-120x120.png' width="87.5%" height="87.5%" alt='Massa Labs'></a></th>
-<th align="center"><a href="https://www.mintscan.io/passage/validators/pasgvaloper12malnvcwd5lw02pznqvf384kz8t9da3xx4lzyd"><img src='https://armyids.com/wp-content/uploads/2022/12/Passage-IO-120x120.png' width="87.5%" height="87.5%" alt='Passage IO'></a></th>
-<th align="center"><a href="https://pylons.explorers.guru/validator/pylovaloper1ck7s2t86rc3ww7208auk69daw3lv0cgp03yey0"><img src='https://armyids.com/wp-content/uploads/2022/12/Pylons-Tech-120x120.png' width="87.5%" height="87.5%" alt='Pylons Tech'></a></th>
-</tr>
-<th align="center"><a href="https://exp.nodeist.net/Realio/staking/realiovaloper1a3vqugel6vxcaes5z800edcqas6zpa83xeengc"><img src='https://armyids.com/wp-content/uploads/2022/12/Realio-Network-120x120.png' width="87.5%" height="87.5%" alt='Realio Network'></a></th>
+<th align="center"><a href="https://wallet.keplr.app/chains/passage?modal=validator&chain=passage-2&validator_address=pasgvaloper12malnvcwd5lw02pznqvf384kz8t9da3xx4lzyd"><img src='https://armyids.com/wp-content/uploads/2022/12/Passage-IO-120x120.png' width="87.5%" height="87.5%" alt='Passage IO'></a></th>
+<th align="center"><a href="https://app.realio.network/staking"><img src='https://armyids.com/wp-content/uploads/2022/12/Realio-Network-120x120.png' width="87.5%" height="87.5%" alt='Realio Network'></a></th>
 <th align="center"><a href="https://wallet.keplr.app/chains/stargaze?modal=validator&chain=stargaze-1&validator_address=starsvaloper16x8thpydgpsfxtzjljqyvtm8a6pkk8ggl64qr5"><img src='https://armyids.com/wp-content/uploads/2022/11/StarGaze-Zone-120x120.png' width="87.5%" height="87.5%" alt='StarGaze Zone'></a></th>
+<th align="center"><a href="https://testnet.ping.pub/side/staking/bcvaloper1qqvq69sgpcf32qqfq5d3zxslqs0qxpq7rvv3gyqsq5vpjqgnzu2p60yer80"><img src='https://armyids.com/wp-content/uploads/2024/02/Side-Protocol-120x120.png' width="87.5%" height="87.5%" alt='Side Protocol'></a></th>
 </tr>
 </table>
 
 We are also testing the performance and stability of several testnet chains to ensure that they meet the criteria before being launched:
-<table>
-<tr>
-<th align="center"><a href="https://testnet.ping.pub/side/staking/bcvaloper1qqvq69sgpcf32qqfq5d3zxslqs0qxpq7rvv3gyqsq5vpjqgnzu2p60yer80"><img src='https://armyids.com/wp-content/uploads/2024/02/Side-Protocol-120x120.png' width="87.5%" height="87.5%" alt='Side Protocol'></a></th>
-</tr>
-</table>
 
 <hr>
 
