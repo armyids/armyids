@@ -19,7 +19,7 @@ Our networks include some of the biggest names in the industry, such as Avalanch
 <th align="center"><a href="https://wallet.keplr.app/chains/passage?modal=validator&chain=passage-2&validator_address=pasgvaloper12malnvcwd5lw02pznqvf384kz8t9da3xx4lzyd"><img src='https://armyids.com/wp-content/uploads/2022/12/Passage-IO-120x120.png' width="87.5%" height="87.5%" alt='Passage IO'></a></th>
 <th align="center"><a href="https://app.realio.network/staking"><img src='https://armyids.com/wp-content/uploads/2022/12/Realio-Network-120x120.png' width="87.5%" height="87.5%" alt='Realio Network'></a></th>
 <th align="center"><a href="https://wallet.keplr.app/chains/stargaze?modal=validator&chain=stargaze-1&validator_address=starsvaloper16x8thpydgpsfxtzjljqyvtm8a6pkk8ggl64qr5"><img src='https://armyids.com/wp-content/uploads/2022/11/StarGaze-Zone-120x120.png' width="87.5%" height="87.5%" alt='StarGaze Zone'></a></th>
-<th align="center"><a href="https://testnet.ping.pub/side/staking/sidevaloper1qqvq69sgpcf32qqfq5d3zxslqs0qxpq7rvv3gyqsq5vpjqgnzu2p6r2xa7y"><img src='https://armyids.com/wp-content/uploads/2024/02/Side-Protocol-120x120.png' width="87.5%" height="87.5%" alt='Side Protocol'></a></th>
+<th align="center"><a href="https://www.mintscan.io/visualization/validators/armyids"><img src='https://armyids.com/wp-content/uploads/2020/11/Army-IDs-Radar-120x120.png' width="87.5%" height="87.5%" alt='Other Networks'></a></th>
 </tr>
 </table>
 
